@@ -1,0 +1,44 @@
+{
+  "permalink": "/blog/estatutos",
+  "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2021-08-01-mdx-blog-post.mdx",
+  "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+  "title": "Estatutos de financiación y gastos",
+  "description": "1. La financiación de la Estantería Digital de Papalotla por parte de un ente (persona física o moral) garantizará un lugar en la Mesa de Administración.",
+  "date": "2021-08-01T00:00:00.000Z",
+  "formattedDate": "August 1, 2021",
+  "tags": [
+    {
+      "label": "estatutos",
+      "permalink": "/blog/tags/estatutos"
+    }
+  ],
+  "readingTime": 1.24,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Oscar Zambrano Lara",
+      "title": "Dirección General de Impossible Box de México",
+      "url": "https://github.com/endiliey",
+      "imageURL": "https://github.com/endiliey.png",
+      "key": "imp1"
+    }
+  ],
+  "frontMatter": {
+    "slug": "estatutos",
+    "title": "Estatutos de financiación y gastos",
+    "authors": [
+      "imp1"
+    ],
+    "tags": [
+      "estatutos"
+    ]
+  },
+  "prevItem": {
+    "title": "Preguntas frecuentes",
+    "permalink": "/blog/"
+  },
+  "nextItem": {
+    "title": "Declaración sobre el Consejo de Contenido",
+    "permalink": "/blog/consejo"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Preguntas frecuentes",
+      "permalink": "/blog/preguntas"
+    },
+    {
+      "title": "Código de conducta de la comunidad y colaboradores.",
+      "permalink": "/blog/codigo-de-conducta"
+    },
+    {
+      "title": "Documentación para desarrolladores y personas técnicas",
+      "permalink": "/blog/documentación"
+    },
+    {
+      "title": "Actualización de Primavera",
+      "permalink": "/blog/actualizacion-primavera"
+    },
+    {
+      "title": "Aviso de privacidad",
+      "permalink": "/blog/aviso-de-privacidad"
+    }
+  ]
+}

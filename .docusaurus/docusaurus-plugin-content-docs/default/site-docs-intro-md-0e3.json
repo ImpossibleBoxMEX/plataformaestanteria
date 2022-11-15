@@ -1,0 +1,28 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "¡Bienvenido a la Estantería Digital de Papalotla!",
+  "description": "La Estantería Digital de Papalotla es el repositorio digital más amplio con información sobre la ciudad.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Historia mínima de la Comunidad Judía en Papalotla",
+    "permalink": "/historias-constumbres.mdx/judios-papalotla"
+  },
+  "next": {
+    "title": "Primera Acta de Sesión de Cabildo (2017)",
+    "permalink": "/documentos-publicos/acta-cabildo"
+  }
+}

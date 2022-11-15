@@ -1,0 +1,27 @@
+{
+  "unversionedId": "historias-constumbres.mdx/arqueologia-malinche",
+  "id": "historias-constumbres.mdx/arqueologia-malinche",
+  "title": "Arqueología del paisaje en La Malinche",
+  "description": "|Autor:| Sergio Suárez Cruz |",
+  "source": "@site/docs/historias-constumbres.mdx/arqueologia-malinche.mdx",
+  "sourceDirName": "historias-constumbres.mdx",
+  "slug": "/historias-constumbres.mdx/arqueologia-malinche",
+  "permalink": "/historias-constumbres.mdx/arqueologia-malinche",
+  "draft": false,
+  "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/historias-constumbres.mdx/arqueologia-malinche.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "El culto al Señor del Monte en las inmediaciones de la Malinche",
+    "permalink": "/historias-constumbres.mdx/senor_del_monte"
+  },
+  "next": {
+    "title": "Agua e industria en Puebla. El establecimiento de la fábrica textil La Covadonga, 1889-1897",
+    "permalink": "/historias-constumbres.mdx/agua-puebla"
+  }
+}

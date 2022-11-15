@@ -1,0 +1,27 @@
+{
+  "unversionedId": "salud-publica/pandemia-datos/vacunacion",
+  "id": "salud-publica/pandemia-datos/vacunacion",
+  "title": "Vacunación en Papalotla de Xicohténcatl.",
+  "description": "|Población objetivo|Farmaceútica/Nombre|Población vacunada|Referencia|",
+  "source": "@site/docs/salud-publica/pandemia-datos/vacunacion.mdx",
+  "sourceDirName": "salud-publica/pandemia-datos",
+  "slug": "/salud-publica/pandemia-datos/vacunacion",
+  "permalink": "/salud-publica/pandemia-datos/vacunacion",
+  "draft": false,
+  "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/salud-publica/pandemia-datos/vacunacion.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pandemia por coronavirus en Papalotla de Xicohténcatl",
+    "permalink": "/salud-publica/pandemia-datos/relevantes-datos"
+  },
+  "next": {
+    "title": "Presidente de Papalotla de Xicohténcatl da positivo a la prueba de SARS-CoV-2",
+    "permalink": "/salud-publica/pandemia-datos/positivo-presidente"
+  }
+}

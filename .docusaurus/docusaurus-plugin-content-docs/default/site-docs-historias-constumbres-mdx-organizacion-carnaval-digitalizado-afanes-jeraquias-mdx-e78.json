@@ -1,0 +1,27 @@
+{
+  "unversionedId": "historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias",
+  "id": "historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias",
+  "title": "[Digitalizado] Afanes y jerarquías en la organización del Caranaval de Papalotla",
+  "description": "Este documento carecía de texto digital fácilmemte compartible, se ha digitalizado usando",
+  "source": "@site/docs/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias.mdx",
+  "sourceDirName": "historias-constumbres.mdx/organizacion-carnaval",
+  "slug": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias",
+  "permalink": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias",
+  "draft": false,
+  "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
+    "permalink": "/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval"
+  },
+  "next": {
+    "title": "El culto al Señor del Monte en las inmediaciones de la Malinche",
+    "permalink": "/historias-constumbres.mdx/senor_del_monte"
+  }
+}
